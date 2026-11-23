@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Micha&#322; &#321;uczak's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  : 2510, Total PRs: 666, Total Issues: 257, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  : 2522, Total PRs: 666, Total Issues: 257, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.82534369936336;
+        stroke-dashoffset: 88.76443138522171;
       }
     }
   
